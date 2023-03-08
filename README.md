@@ -1,0 +1,2 @@
+# NewManualAppGit
+just test
